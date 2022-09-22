@@ -1,0 +1,23 @@
+{
+  "name": "@oliverschuerch/me",
+  "version": "1.0.1",
+  "description": "Some infos about my person",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverschuerch/me.git"
+  },
+  "keywords": [
+    "oliver",
+    "schürch"
+  ],
+  "author": "oliverschuerch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverschuerch/me/issues"
+  },
+  "homepage": "https://github.com/oliverschuerch/me#readme"
+}
